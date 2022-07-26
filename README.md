@@ -40,4 +40,11 @@ Amazon Snap: https://snap.stanford.edu/data/web-Amazon.html
 <td><img src="https://user-images.githubusercontent.com/79631533/181024635-49b43799-915b-4c74-83d5-32e3430f6df7.png"></td></tr>
 </table>
 
-
+### Contributors
+- <a href="https://github.com/Aravindkrish25">Aravind M </a>
+- <a href="https://github.com/bhooshaan">Bhooshaan A </a>
+- Gowtham S
+- Rishika V
+- Sanjai K
+- Suchitha M<br>
+#### Guided by: Ms. Vani K
