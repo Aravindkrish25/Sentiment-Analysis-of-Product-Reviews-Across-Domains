@@ -45,6 +45,6 @@ Amazon Snap: https://snap.stanford.edu/data/web-Amazon.html
 - <a href="https://github.com/bhooshaan">Bhooshaan A </a>
 - Gowtham S
 - Rishika V
-- Sanjai K
+- <a href = "https://github.com/thisissanjai"> Sanjai K </a>
 - Suchitha M<br>
 #### Guided by: Ms. Vani K
